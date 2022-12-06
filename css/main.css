@@ -33,6 +33,7 @@ img {
 	text-transform: uppercase;
 	margin-top: 34px;
 	list-style: none;
+	font-family: 'Jost', sans-serif;
 }
 
 .main-nav li {
@@ -63,6 +64,10 @@ img {
 .home-content {
 	text-align: center;
 	margin-top: 10%;
+}
+
+.home-content {
+	font-family: 'Jost', sans-serif;
 }
 
 .home-content p {
