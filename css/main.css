@@ -106,7 +106,7 @@ img {
 }
 
 /* アニメーション */
-.anim-box .page-title {
+.button.anim-box {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 normal;
 }
 
@@ -114,7 +114,7 @@ img {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 250ms 1 normal;
 }
 
-.anim-box .button {
+.button.anim-box {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 500ms 1 normal;
 }
  
