@@ -107,15 +107,15 @@ img {
 
 /* アニメーション */
 .anim-box .page-title {
-	animation: 1s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 normal forwards running fadeup;
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 0s;
 }
 
 .anim-box p {
-	animation: 1s cubic-bezier(0.33, 1, 0.68, 1) 0.25s 1 normal forwards running fadeup;
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 250ms;
 }
 
 .anim-box .button {
-	animation: 1s cubic-bezier(0.33, 1, 0.68, 1) 0.5s 1 normal forwards running fadeup;
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 500ms;
 }
  
 @keyframes fadeup {
