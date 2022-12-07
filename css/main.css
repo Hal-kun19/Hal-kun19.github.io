@@ -83,13 +83,13 @@ img {
 /* ボタン */
 .button {
 	font-size: 1.375rem;
-	background: #0bd;
+	background: #1dc3f5;
 	color: #fff;
 	border-radius: 5px;
 	padding: 18px 32px;
 }
 .button:hover{
-	background: #0090aa;
+	background: #2493b5;
 }
 
 /* 背景画像 */
