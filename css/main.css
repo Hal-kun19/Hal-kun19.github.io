@@ -110,7 +110,7 @@ img {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 normal;
 }
 
-.anim-box p {
+p.anim-box {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 250ms 1 normal;
 }
 
