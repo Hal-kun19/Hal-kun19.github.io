@@ -100,5 +100,7 @@ img {
 }
 #home {
 	background-image: url(../images/Ashibara_bg.gif);
+	background-color: #000;
+	background-blend-mode: darken;
 	min-height: 100vh;
 }
