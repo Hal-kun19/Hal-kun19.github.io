@@ -42,11 +42,11 @@ img {
 }
 
 .main-nav a {
-	color: #000;
+	color: #f3f3f3;
 }
 
 .main-nav a:hover {
-	color: #0bd;
+	color: #e3e3e3;
 }
 
 .page-header {
