@@ -14,7 +14,6 @@ body {
 
 a {
 	text-decoration: none;
-	color: #000;
 }
 
 img {
@@ -40,14 +39,13 @@ img {
 
 .main-nav li {
 	margin-left: 36px;
-	margin-right: 14px;
 }
 
-.margin-nav a {
+.main-nav a {
 	color: #000;
 }
 
-.margin-nav a:hover {
+.main-nav a:hover {
 	color: #0bd;
 }
 
