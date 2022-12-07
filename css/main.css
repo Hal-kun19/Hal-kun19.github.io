@@ -9,7 +9,7 @@ html {
 body {
 	font-family: "Yu Gothic Medium", "游ゴシック Medium", Yugothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", sans-serif;
 	line-height: 1.7;
-	color: #f3f3f3;
+	color: #000;
 }
 
 a {
@@ -72,6 +72,10 @@ img {
 .home-content p {
 	font-size: 1.125rem;
 	margin: 10px 0 42px;
+}
+
+#home {
+	color: #f3f3f3;
 }
 
 /* スローガン */
