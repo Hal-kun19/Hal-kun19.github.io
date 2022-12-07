@@ -93,3 +93,13 @@ img {
 .button:hover{
 	background: #0090aa;
 }
+
+/* 背景画像 */
+.big-bg {
+	background-size: cover;
+	background-psition: center top;
+}
+#home {
+	background-image: url(images/ezgif.com-gif-maker 5.gif);
+	min-height: 100vh;
+}
