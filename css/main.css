@@ -43,10 +43,18 @@ img {
 }
 
 .main-nav a {
+	color: #000;
+}
+
+#home .main-nav a {
 	color: #f3f3f3;
 }
 
 .main-nav a:hover {
+	color: #2e2e2e;
+}
+
+#home .main-nav a:hover {
 	color: #e3e3e3;
 }
 
