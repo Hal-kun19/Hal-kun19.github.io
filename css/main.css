@@ -53,6 +53,7 @@ img {
 .page-header {
 	display: flex;
 	justify-content: space-between;
+	background-color: #00000099;
 }
 
 .wrapper {
