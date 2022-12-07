@@ -53,6 +53,9 @@ img {
 .page-header {
 	display: flex;
 	justify-content: space-between;
+}
+
+#home .page-header {
 	background-color: #000000B3;
 }
 
