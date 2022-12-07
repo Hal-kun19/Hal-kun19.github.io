@@ -107,15 +107,15 @@ img {
 }
 
 /* アニメーション */
-.page-title.anim-box {
+.anim-box {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 0s 1 normal;
 }
 
-p.anim-box {
+/*p.anim-box {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 200ms 1 normal;
 }
 
-/* .button.anim-box {
+.button.anim-box {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 200ms 1 normal;
 } */
  
