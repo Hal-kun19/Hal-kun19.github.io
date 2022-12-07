@@ -95,7 +95,7 @@ img {
 /* 背景画像 */
 .big-bg {
 	background-size: cover;
-	background-psition: center top;
+	background-position: center top;
 }
 #home {
 	background-image: url(../images/Ashibara_bg.gif);
