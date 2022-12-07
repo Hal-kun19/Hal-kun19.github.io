@@ -111,16 +111,16 @@ img {
 }
 
 p.anim-box {
-	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 250ms 1 normal;
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 100ms 1 normal;
 }
 
-.button.anim-box {
-	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 500ms 1 normal;
-}
+/* .button.anim-box {
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 200ms 1 normal;
+} */
  
 @keyframes fadeup {
 	0% {
-		transform: translateY(30px);
+		transform: translateY(50px);
 		opacity: 0;
 	}
 	80% {
