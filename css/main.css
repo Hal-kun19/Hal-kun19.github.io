@@ -106,16 +106,18 @@ img {
 }
 
 /* アニメーション */
-.anim-box {
+.anim-box .page-title {
 	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 1 forwards;
 }
 
 .anim-box p {
 	animation-delay: 0.25s;
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 1 forwards;
 }
 
 .anim-box .button {
 	animation-delay: 0.5s;
+	animation: fadeup 1s cubic-bezier(0.33, 1, 0.68, 1) 1 forwards;
 }
  
 @keyframes fadeup {
