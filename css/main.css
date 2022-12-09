@@ -97,6 +97,10 @@ img {
 	font-weight: normal;
 }
 
+#news .page-title {
+	color: #f3f3f3;
+}
+
 /* ボタン */
 .button {
 	font-size: 1.375rem;
